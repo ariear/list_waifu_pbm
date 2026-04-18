@@ -1,0 +1,220 @@
+{
+  "waifu_list": [
+    {
+      "nama": "Elaina",
+      "anime": "Majo no Tabitabi",
+      "foto": "assets/images/elaina.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Arima Kana",
+      "anime": "Oshi no Ko",
+      "foto": "assets/images/kana.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Miyako Saitou",
+      "anime": "Oshi no Ko",
+      "foto": "assets/images/miyako.webp",
+      "rating": 5
+    },
+    {
+      "nama": "Sajyou Ayaka",
+      "anime": "Fate/strange Fake",
+      "foto": "assets/images/ayaka.webp",
+      "rating": 5
+    },
+    {
+      "nama": "No Name Assasin",
+      "anime": "Fate/strange Fake",
+      "foto": "assets/images/assasin.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Violet",
+      "anime": "Violet Evergarden",
+      "foto": "assets/images/violet.webp",
+      "rating": 4
+    },
+    {
+      "nama": "Hoshino Ruby",
+      "anime": "Oshi no Ko",
+      "foto": "assets/images/ruby.webp",
+      "rating": 4
+    },
+    {
+      "nama": "Lain Iwakura",
+      "anime": "Serial Experiment Lain",
+      "foto": "assets/images/lain.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Maomao",
+      "anime": "Kusuriya no Hitorigoto",
+      "foto": "assets/images/maomao.webp",
+      "rating": 4
+    },
+    {
+      "nama": "Agnes Tachyon",
+      "anime": "Umamusume",
+      "foto": "assets/images/agnes.png",
+      "rating": 5
+    },
+    {
+      "nama": "Almond Eye",
+      "anime": "Umamusume",
+      "foto": "assets/images/almond.png",
+      "rating": 5
+    },
+    {
+      "nama": "Eishin Flash",
+      "anime": "Umamusume",
+      "foto": "assets/images/flash.png",
+      "rating": 5
+    },
+    {
+      "nama": "Kitasan Black",
+      "anime": "Umamusume",
+      "foto": "assets/images/kitasan.jpg",
+      "rating": 5
+    },
+    {
+      "nama": "Nice Nature",
+      "anime": "Umamusume",
+      "foto": "assets/images/nature.png",
+      "rating": 5
+    },
+    {
+      "nama": "Meisho Doto",
+      "anime": "Umamusume",
+      "foto": "assets/images/doto.png",
+      "rating": 5
+    },
+    {
+      "nama": "Biwa Hayahide",
+      "anime": "Umamusume",
+      "foto": "assets/images/biwa.png",
+      "rating": 4
+    },
+    {
+      "nama": "Cheval Grand",
+      "anime": "Umamusume",
+      "foto": "assets/images/cheval.png",
+      "rating": 5
+    },
+    {
+      "nama": "Daitaku Helios",
+      "anime": "Umamusume",
+      "foto": "assets/images/helios.png",
+      "rating": 4
+    },
+    {
+      "nama": "Daiwa Scarlet",
+      "anime": "Umamusume",
+      "foto": "assets/images/scarlet.webp",
+      "rating": 5
+    },
+    {
+      "nama": "Forever Young",
+      "anime": "Umamusume",
+      "foto": "assets/images/young.png",
+      "rating": 5
+    },
+    {
+      "nama": "Gentildonna",
+      "anime": "Umamusume",
+      "foto": "assets/images/gentildonna.png",
+      "rating": 5
+    },
+    {
+      "nama": "Gold City",
+      "anime": "Umamusume",
+      "foto": "assets/images/gold-city.jpeg",
+      "rating": 5
+    },
+    {
+      "nama": "Manhattan Cafe",
+      "anime": "Umamusume",
+      "foto": "assets/images/cafe.png",
+      "rating": 5
+    },
+    {
+      "nama": "Maruzensky",
+      "anime": "Umamusume",
+      "foto": "assets/images/maru.png",
+      "rating": 5
+    },
+    {
+      "nama": "Mejiro Ramonu",
+      "anime": "Umamusume",
+      "foto": "assets/images/ramonu.png",
+      "rating": 4
+    },
+    {
+      "nama": "Mihono Bourbon",
+      "anime": "Umamusume",
+      "foto": "assets/images/borbon.png",
+      "rating": 5
+    },
+    {
+      "nama": "Narita Top Road",
+      "anime": "Umamusume",
+      "foto": "assets/images/ntr.jpg",
+      "rating": 4
+    },
+    {
+      "nama": "Rice Shower",
+      "anime": "Umamusume",
+      "foto": "assets/images/rice.png",
+      "rating": 5
+    },
+    {
+      "nama": "Oguri Cap",
+      "anime": "Umamusume",
+      "foto": "assets/images/oguri.webp",
+      "rating": 4
+    },
+    {
+      "nama": "Sakura Chiyono O",
+      "anime": "Umamusume",
+      "foto": "assets/images/sakura.png",
+      "rating": 5
+    },
+    {
+      "nama": "Super Creek",
+      "anime": "Umamusume",
+      "foto": "assets/images/creek.png",
+      "rating": 5
+    },
+    {
+      "nama": "Still in Love",
+      "anime": "Umamusume",
+      "foto": "assets/images/sil.png",
+      "rating": 5
+    },
+    {
+      "nama": "Tokai Teio",
+      "anime": "Umamusume",
+      "foto": "assets/images/teio.png",
+      "rating": 5
+    },
+    {
+      "nama": "Tamamo Cross",
+      "anime": "Umamusume",
+      "foto": "assets/images/cross.png",
+      "rating": 4
+    },
+    {
+      "nama": "Yaeno Muteki",
+      "anime": "Umamusume",
+      "foto": "assets/images/muteki.png",
+      "rating": 5
+    },
+    {
+      "nama": "Tazuna Hayakawa",
+      "anime": "Umamusume",
+      "foto": "assets/images/tazuna.png",
+      "rating": 5
+    }
+  ]
+}
